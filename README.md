@@ -27,11 +27,19 @@
 6. **Список рейсов**: Просмотрите доступные рейсы с названием компании и стоимостью, подтвердите поездку.
 
 ### Скриншоты
-*[Здесь будут добавлены скриншоты экранов приложения после завершения разработки]*
+<table>
+  <tr>
+    <td><img width="200" src="https://github.com/user-attachments/assets/f4ef37f1-24ca-4b8a-b3a5-2382ae7c1b7c" /></td>
+    <td><img width="200" src="https://github.com/user-attachments/assets/16a72dbd-f57c-430b-87ad-efad11153351" /></td>
+    <td><img width="200" src="https://github.com/user-attachments/assets/53f692ec-dd73-4b1d-9f91-46365fad99da" /></td>
+  </tr>
+  <tr>
+    <td><img width="200" src="https://github.com/user-attachments/assets/76050f4e-2511-4502-821e-2b5320adb38b" /></td>
+    <td><img width="200" src="https://github.com/user-attachments/assets/d2421a24-beb0-4a93-ae8f-50e64d66c645" /></td>
+    <td><img width="200" src="https://github.com/user-attachments/assets/5c5824d6-cbee-4368-ae0f-13bfbd4d0098" /></td>
+  </tr>
+</table>
 
-| Экран входа | Список отелей | Бронирование |
-|-------------|---------------|---------------|
-| (скриншот)  | (скриншот)    | (скриншот)    |
 
 ## Contributing
 Проект выполнен в рамках лабораторной работы №9 по дисциплине «Технологии программирования для мобильных приложений».
